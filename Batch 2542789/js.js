@@ -3,7 +3,7 @@ const data = [
 [i++, "Abhinav Tiwari", "52472138", "./data/AbhinavTiwari_52472138/1.bmp", "./data/AbhinavTiwari_52472138/2.bmp", "./data/AbhinavTiwari_52472138/3.bmp", "./data/AbhinavTiwari_52472138/4.bmp", "./data/AbhinavTiwari_52472138/5.bmp"],
 [i++, "Abhishek Singh", "28927485", "./data/AbhishekSingh_28927485/1.bmp", "./data/AbhishekSingh_28927485/2.bmp", "./data/AbhishekSingh_28927485/3.bmp", "./data/AbhishekSingh_28927485/4.bmp", "./data/AbhishekSingh_28927485/5.bmp"],
 [i++, "Abhishek Vishwakarma", "2271721", "./data/AbhishekVishwakarma_2271721/1.bmp", "./data/AbhishekVishwakarma_2271721/2.bmp", "./data/AbhishekVishwakarma_2271721/3.bmp", "./data/AbhishekVishwakarma_2271721/4.bmp", "./data/AbhishekVishwakarma_2271721/5.bmp"],
-[i++, "Ajad Ahamad", "99132567", "./data/AjadAhamad_99132567/1.bmp", "./data/AjadAhamad_99132567/2.bmp", "./data/AjadAhamad_99132567/3.bmp", "./data/AjadAhamad_99132567/4.bmp", "./data/AjadAhamad_99132567/5.bmp"],
+[i++, "Ajad Ahamad", "99132567", "./data/AjadAhamad_99132567/1.dib", "./data/AjadAhamad_99132567/2.dib", "./data/AjadAhamad_99132567/3.dib", "./data/AjadAhamad_99132567/4.dib", "./data/AjadAhamad_99132567/5.dib"],
 [i++, "Ajeet Yadav", "23992419", "./data/AjeetYadav_23992419/1.bmp", "./data/AjeetYadav_23992419/2.bmp", "./data/AjeetYadav_23992419/3.bmp", "./data/AjeetYadav_23992419/4.bmp", "./data/AjeetYadav_23992419/5.bmp"],
 [i++, "Amita", "68496965", "./data/Amita_68496965/1.bmp", "./data/Amita_68496965/2.bmp", "./data/Amita_68496965/3.bmp", "./data/Amita_68496965/4.bmp", "./data/Amita_68496965/5.bmp"],
 [i++, "Anit Kumar", "41940551", "./data/AnitKumar_41940551/1.bmp", "./data/AnitKumar_41940551/2.bmp", "./data/AnitKumar_41940551/3.bmp", "./data/AnitKumar_41940551/4.bmp", "./data/AnitKumar_41940551/5.bmp"],
