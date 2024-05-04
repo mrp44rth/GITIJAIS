@@ -11,7 +11,7 @@ const data = [
 [i++, "Arun Kumar", "12685076", "./data/ArunKumar_12685076/1.bmp", "./data/ArunKumar_12685076/2.bmp", "./data/ArunKumar_12685076/3.bmp", "./data/ArunKumar_12685076/4.bmp", "./data/ArunKumar_12685076/5.bmp"],
 [i++, "Arun Kumar", "82452879", "./data/ArunKumar_82452879/1.bmp", "./data/ArunKumar_82452879/2.bmp", "./data/ArunKumar_82452879/3.bmp", "./data/ArunKumar_82452879/4.bmp", "./data/ArunKumar_82452879/5.bmp"],
 [i++, "Ayush Mishra", "96608562", "./data/AyushMishra_96608562/1.bmp", "./data/AyushMishra_96608562/2.bmp", "./data/AyushMishra_96608562/3.bmp", "./data/AyushMishra_96608562/4.bmp", "./data/AyushMishra_96608562/5.bmp"],
-[i++, "Chandan Kori", "73682379", "./data/ChandanKori_73682379/1.dib", "./data/ChandanKori_73682379/2.dib", "./data/ChandanKori_73682379/3.dib", "./data/ChandanKori_73682379/4.dib", "./data/ChandanKori_73682379/5.dib"],
+[i++, "Chandan Kori", "73682379", "./data/ChandanKori_73682379/1.dib", "./data/ChandanKori_73682379/2.bmp", "./data/ChandanKori_73682379/3.bmp", "./data/ChandanKori_73682379/4.bmp", "./data/ChandanKori_73682379/5.bmp"],
 [i++, "Chandra Abhishek", "90531849", "./data/ChandraAbhishek_90531849/1.bmp", "./data/ChandraAbhishek_90531849/2.bmp", "./data/ChandraAbhishek_90531849/3.bmp", "./data/ChandraAbhishek_90531849/4.bmp", "./data/ChandraAbhishek_90531849/5.bmp"],
 [i++, "Hariom", "13003485", "./data/Hariom_13003485/1.bmp", "./data/Hariom_13003485/2.bmp", "./data/Hariom_13003485/3.bmp", "./data/Hariom_13003485/4.bmp", "./data/Hariom_13003485/5.bmp"],
 [i++, "Meenakshi Singh", "69383382", "./data/MeenakshiSingh_69383382/1.bmp", "./data/MeenakshiSingh_69383382/2.bmp", "./data/MeenakshiSingh_69383382/3.bmp", "./data/MeenakshiSingh_69383382/4.bmp", "./data/MeenakshiSingh_69383382/5.bmp"],
