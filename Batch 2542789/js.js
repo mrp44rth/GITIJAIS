@@ -7,7 +7,7 @@ const data = [
 [i++, "Ajeet Yadav", "23992419", "./data/AjeetYadav_23992419/1.bmp", "./data/AjeetYadav_23992419/2.bmp", "./data/AjeetYadav_23992419/3.bmp", "./data/AjeetYadav_23992419/4.bmp", "./data/AjeetYadav_23992419/5.bmp"],
 [i++, "Amita", "68496965", "./data/Amita_68496965/1.bmp", "./data/Amita_68496965/2.bmp", "./data/Amita_68496965/3.bmp", "./data/Amita_68496965/4.bmp", "./data/Amita_68496965/5.bmp"],
 [i++, "Anit Kumar", "41940551", "./data/AnitKumar_41940551/1.bmp", "./data/AnitKumar_41940551/2.bmp", "./data/AnitKumar_41940551/3.bmp", "./data/AnitKumar_41940551/4.bmp", "./data/AnitKumar_41940551/5.bmp"],
-[i++, "Anubhav Maurya", "10295221", "./data/AnubhavMaurya_10295221/1.dib", "./data/AnubhavMaurya_10295221/2.dib", "./data/AnubhavMaurya_10295221/3.dib", "./data/AnubhavMaurya_10295221/4.dib", "./data/AnubhavMaurya_10295221/5.dib"],
+[i++, "Anubhav Maurya", "10295221", "./data/AnubhavMaurya_10295221/1.bmp", "./data/AnubhavMaurya_10295221/2.bmp", "./data/AnubhavMaurya_10295221/3.bmp", "./data/AnubhavMaurya_10295221/4.bmp", "./data/AnubhavMaurya_10295221/5.bmp"],
 [i++, "Arun Kumar", "12685076", "./data/ArunKumar_12685076/1.bmp", "./data/ArunKumar_12685076/2.bmp", "./data/ArunKumar_12685076/3.bmp", "./data/ArunKumar_12685076/4.bmp", "./data/ArunKumar_12685076/5.bmp"],
 [i++, "Arun Kumar", "82452879", "./data/ArunKumar_82452879/1.bmp", "./data/ArunKumar_82452879/2.bmp", "./data/ArunKumar_82452879/3.bmp", "./data/ArunKumar_82452879/4.bmp", "./data/ArunKumar_82452879/5.bmp"],
 [i++, "Ayush Mishra", "96608562", "./data/AyushMishra_96608562/1.bmp", "./data/AyushMishra_96608562/2.bmp", "./data/AyushMishra_96608562/3.bmp", "./data/AyushMishra_96608562/4.bmp", "./data/AyushMishra_96608562/5.bmp"],
